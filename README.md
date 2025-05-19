@@ -1,4 +1,4 @@
-# Cadastro de Usuários e Senhas
+cf3e86bae9f3733715e85b941765543f835ae4de# Cadastro de Usuários e Senhas
 
 Este projeto é um sistema simples de cadastro e autenticação de usuários em Python.
 
